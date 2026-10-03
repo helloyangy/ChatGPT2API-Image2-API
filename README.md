@@ -2,6 +2,8 @@
 
 ChatGPT2API 通过反代 ChatGPT 官网的 Image 2 绘图模型，将其封装成兼容 API 接口，方便第三方应用直接调用。
 
+项目地址：<https://github.com/basketikun/chatgpt2api>
+
 ![c6d5d26536868eca97dfa2531c12d58c.png](./_resources/c6d5d26536868eca97dfa2531c12d58c.png)
 
 ## 服务器推荐
